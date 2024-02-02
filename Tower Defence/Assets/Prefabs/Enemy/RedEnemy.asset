@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76428780de7963747a26a7b0242370d5, type: 3}
+  m_Name: RedEnemy
+  m_EditorClassIdentifier: 
+  color: {r: 1, g: 1, b: 1, a: 1}
+  spriteScale: {x: 4, y: 4}
+  animations: {fileID: 9100000, guid: a3ba0ca45ebe31d489d6a3c72d5ba3b5, type: 2}
+  moveSpeed: 1
+  hp: 10
+  armor: 7
+  armorType: 0
+  score: 2
+  radius: 0.48
+  damage: 1
+  gold: 5
